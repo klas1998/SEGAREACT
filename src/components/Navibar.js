@@ -39,7 +39,7 @@ export default function NaviBar() {
                   <Link to="/Klas"> Top/A\ </Link>
                 </Nav.Link>
               </Nav>
-              <Button variant="danger" className="m-2" > <Link to ='/Berserk'>
+              <Button variant="danger" className="m-2" > <Link to ='https://klas1998.github.io/Bers/'>
                 BZK</Link>
               </Button>
               <Button variant="primary" className="m-2">
