@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/SEGAREACT/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/SEGAREACT/static/js/main.ffd80c23.chunk.js",
+    "main.js.map": "/SEGAREACT/static/js/main.ffd80c23.chunk.js.map",
+    "runtime-main.js": "/SEGAREACT/static/js/runtime-main.f4fe8ff1.js",
+    "runtime-main.js.map": "/SEGAREACT/static/js/runtime-main.f4fe8ff1.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/SEGAREACT/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c3f3e877.chunk.js": "/SEGAREACT/static/js/2.c3f3e877.chunk.js",
+    "static/js/2.c3f3e877.chunk.js.map": "/SEGAREACT/static/js/2.c3f3e877.chunk.js.map",
+    "static/js/3.ee215dfa.chunk.js": "/SEGAREACT/static/js/3.ee215dfa.chunk.js",
+    "static/js/3.ee215dfa.chunk.js.map": "/SEGAREACT/static/js/3.ee215dfa.chunk.js.map",
+    "index.html": "/SEGAREACT/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/SEGAREACT/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/SEGAREACT/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c3f3e877.chunk.js.LICENSE.txt": "/SEGAREACT/static/js/2.c3f3e877.chunk.js.LICENSE.txt",
+    "static/media/cars.642aeae0.jpg": "/SEGAREACT/static/media/cars.642aeae0.jpg",
+    "static/media/cav.e9144d5a.png": "/SEGAREACT/static/media/cav.e9144d5a.png",
+    "static/media/div.8a90a744.jpg": "/SEGAREACT/static/media/div.8a90a744.jpg",
+    "static/media/jolyn.b526f6ae.jpg": "/SEGAREACT/static/media/jolyn.b526f6ae.jpg",
+    "static/media/lara.56f567b9.jpg": "/SEGAREACT/static/media/lara.56f567b9.jpg",
+    "static/media/main.5ac19a5c.jpg": "/SEGAREACT/static/media/main.5ac19a5c.jpg",
+    "static/media/metro.e8b45da9.jpg": "/SEGAREACT/static/media/metro.e8b45da9.jpg",
+    "static/media/overlord.291c06fc.jpg": "/SEGAREACT/static/media/overlord.291c06fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4fe8ff1.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c3f3e877.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ffd80c23.chunk.js"
+  ]
+}
