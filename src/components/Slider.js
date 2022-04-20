@@ -14,7 +14,7 @@ export default function  Slider () {
              alt="First slide"
              />
              <Carousel.Caption>
-                 <h3>ESCAPE FROM ПРИДНЕСТРОВЬЕ</h3>
+                 <h3>ПРИДНЕСТРОВЬЕ</h3>
              </Carousel.Caption>
              
          </Carousel.Item>
@@ -24,7 +24,7 @@ export default function  Slider () {
              alt="Second slide"
              />
              <Carousel.Caption >
-                 <h3>Tiraspol</h3>
+                 <h3>◈◈◈◈◈</h3>
              </Carousel.Caption>
              
          </Carousel.Item>
@@ -34,7 +34,7 @@ export default function  Slider () {
              alt="Third slide"
              />
              <Carousel.Caption>
-                 <h3>OVERLORD</h3>
+                 <h3>❏❏❏❏❏</h3>
              </Carousel.Caption>
              
          </Carousel.Item>
