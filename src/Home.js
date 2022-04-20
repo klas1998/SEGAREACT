@@ -22,7 +22,7 @@ export const Home = () => (
                 <Card.Title>
                     Caveira
                 </Card.Title>
-                <Card.Text>пацаны интергейшин (допрос)</Card.Text>
+                <Card.Text>Rainbow6</Card.Text>
             </Card.Body>
 
             </Card>
@@ -34,7 +34,7 @@ export const Home = () => (
                 <Card.Title>
                     Шедевр
                 </Card.Title>
-                <Card.Text>10/10</Card.Text>
+                <Card.Text>DivinityOriginalSin</Card.Text>
             </Card.Body>
 
             </Card>
@@ -46,7 +46,7 @@ export const Home = () => (
                 <Card.Title>
                     Goblin Slayer
                 </Card.Title>
-                <Card.Text>Cringe story</Card.Text>
+                <Card.Text>✫✫✫</Card.Text>
             </Card.Body>
 
             </Card>
